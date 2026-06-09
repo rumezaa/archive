@@ -9,6 +9,7 @@ export const LINKS = {
     "250": "https://wise.com/pay/r/rEg2_QIc9XRLKtM",
     "1000": "https://wise.com/pay/r/0flNdEJ3NRpth7M",
   } as Record<string, string>,
+  launchFilm: "https://www.youtube.com/watch?v=-2ynLKBLzEM",
   slack:
     "https://join.slack.com/t/thearchiveworld/shared_invite/zt-3mq02r3jq-_ulwb6UrAQhYd5xzQzyvxA",
   instagram: "https://www.instagram.com/thearchivefund/",

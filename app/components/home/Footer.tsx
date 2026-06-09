@@ -26,7 +26,7 @@ const COLS = [
       [LINKS.apply, "apply"],
       ["#playbooks", "playbooks"],
       [LINKS.slack, "slack community"],
-      ["#", "the launch film"],
+      [LINKS.launchFilm, "the launch film"],
     ],
   },
   {
