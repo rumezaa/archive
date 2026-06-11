@@ -35,7 +35,7 @@ export default function Hero() {
           &nbsp;$0–$1000 microgrants · every summer · worldwide
         </span>
 
-        <h1 className="font-disp text-[clamp(40px,7.4vw,90px)] font-extrabold lowercase leading-[.96] tracking-[-.02em] text-crimson">
+        <h1 className="font-disp text-[clamp(40px,7.4vw,90px)] font-extrabold lowercase leading-[.96] tracking-[-.02em] text-crimson mb-10">
           <span
             className="block translate-y-[40px] opacity-0 animate-[rise_.8s_forwards]"
             style={{ animationDelay: ".15s" }}
@@ -47,7 +47,7 @@ export default function Hero() {
             style={{ animationDelay: ".28s" }}
           >
             <em className="relative not-italic text-sienna after:absolute after:bottom-[.06em] after:left-[-2%] after:right-[-2%] after:-z-[1] after:h-[.16em] after:origin-left after:scale-x-0 after:bg-pear after:content-[''] after:animate-[swipe_.6s_1s_forwards]">
-              cannon events
+              canon events
             </em>
           </span>{" "}
         </h1>
